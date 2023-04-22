@@ -1,9 +1,8 @@
 ### Hey!
 
-I'm a Dotnet software developer currently working for Plain concepts Frankfurt!
+I'm an Elixir developer working at 7Mind, Berlin (remote). 
 
-I like to work on new and exciting projects, where I get to toy with new technology. Especially in the dotNet eco-system!
-Usually I work in Rider, on Linux. But sometimes I need to switch to Windows!
+I like to work on new and exciting projects where I get to toy with new (to me) technologies! I've recently switched from being a dotnet dev to Elixir!
 
 <br />
 <p align="center">  
