@@ -2,7 +2,7 @@
 
 Senior Software Engineer. Elixir enthusiast. Nix advocate. Note taker.
 
-Currently working at [Remote](https://www.remote.com/) as an elixir backend engineer, helping power global employment infrastructure. Previously at [7Mind](https://www.7mind.de), taking care of peoples mindfulness!
+Currently working at [Remote](https://www.remote.com/) as an elixir backend engineer, helping power global employment infrastructure. Previously at [7Mind](https://www.7mind.de), taking care of people's mindfulness!
 
 Passionate about functional programming, [delightfully boring software](https://mathieu.deraedt.dev/slips/1721811985-software-should-be-delightfully-boring) and [embracing learning opportunities](https://mathieu.deraedt.dev/slips/1740007990-you-can-learn-something-from-anyone). I believe [keeping things simple is a skill](https://mathieu.deraedt.dev/slips/1740095339-keeping-things-simple-is-a-skill), and that the [best infrastructure is the kind you forget about](https://mathieu.deraedt.dev/slips/1738087132-a-successfull-infrastructure-is-one-you-forget-about).
 
